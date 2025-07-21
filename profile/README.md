@@ -1,5 +1,11 @@
 # ♥딸기밭♥
 
+<p align="center">
+<br>
+  <img src="./media/team.png">
+  <br>
+</p>
+
 ## 팀원
 | 이름 | 직책 | 이메일 | TIL 사이트 |
 | --- | --- | --- | --- |
