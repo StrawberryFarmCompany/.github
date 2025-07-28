@@ -22,5 +22,6 @@
 | 이름 | 직책 | 이메일 | TIL 사이트 |
 | --- | --- | --- | --- |
 | 이혜림 | 개발 팀장 | [lhr4426@naver.com](mailto:lhr4426@naver.com)  | [https://lhr4426.pages.dev/](https://lhr4426.pages.dev/) |
+| 정지원 | 기획 팀장 | [ken099312@gmail.com](mailto:ken099312@gmail.com)  | [https://zonasse.tistory.com/](https://zonasse.tistory.com/) |
 | 성준우 | 팀원 | [sic470212@gmail.com](mailto:sic470212@gmail.com) | [https://blog.naver.com/sic470212](https://blog.naver.com/sic470212) |
 | 신승민 | 팀원 | [safetmdals79@gmail.com](mailto:safetmdals79@gmail.com) | [https://velog.io/@safetmdals79/posts](https://velog.io/@safetmdals79/posts) |
